@@ -1,0 +1,19 @@
+/*COLORES: 
+		Rosa palido tirando a gris
+		 #EEE8CD 	238	232	205
+		 #EEDFCC	238	223	204	
+		Rosa para destaque
+		 #EE8262	238	130	98
+		Rosa mas intenso
+		 #FF6347*/
+.bg-bars{
+	background-color: #EEDFCC;
+	height: 3em;
+}
+.cart{
+	float: right;
+	display: inline;
+}
+.carrusel{
+	height: 400px;
+}
