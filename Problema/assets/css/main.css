@@ -14,6 +14,37 @@
 	float: right;
 	display: inline;
 }
-.carrusel{
-	height: 400px;
+.carousel-main{
+	height: 8em;
+}
+
+.productos{
+
+}
+.carousel-caption>.p-frame{
+	padding:1em;
+	border: 2px solid white;
+	font-size: 2em;
+}
+.mb-10{
+	margin-bottom: 10%;
+}
+.mt-5{
+	margin-top: 5%;
+}
+.fit{
+	width: 100%;
+}
+hr.pleca{
+	border-top: 3px double lightgrey;
+	width: 100%;
+}
+button.sales{
+	background-color: white;
+	border: none;
+	color:grey;
+}
+button.sales:hover{
+	font-weight: bold;
+	color:black;
 }
